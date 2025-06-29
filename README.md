@@ -1,17 +1,17 @@
-**TABLA DE CONTENIDOS** 
-- INTRODUCCION
-- EQUIPO 
-- EXPERIENCIAS PASADAS
-- PRIMER DISEÑO
-- EVOLUCION DEL DISEÑO
-- TRABAJO REALIZADO
-- CONCLUSIÓN 
-- AGRADECIMIENTOS
+# **TABLA DE CONTENIDOS** 
+## - INTRODUCCIÓN
+## - EQUIPO 
+## - EXPERIENCIAS PASADAS
+## - PRIMER DISEÑO
+## - EVOLUCION DEL DISEÑO
+## - TRABAJO REALIZADO
+## - CONCLUSIÓN 
+## - AGRADECIMIENTOS
 
-**INTRODUCCIÓN**
+## **INTRODUCCIÓN**
 
 
-**EQUIPO**
+## **EQUIPO**
 
 Nuestro equipo se compone por dos personas y un coach, lleva por nombre whitelions. Hemos participado en WRO en 3 ediciones, pero esta es nuestra primera edición en la categoría Fututos Ingenieros.  A continuación, se les presenta los integrantes del equipo:
 
@@ -29,20 +29,20 @@ Joseleonardomarq10@gmail.com
 luisgbarriosm@gmail.com
 
 
-**EXPERIENCIAS PASADAS**
+## **EXPERIENCIAS PASADAS**
 
 
-**PRIMER DISEÑO**
+## **PRIMER DISEÑO**
 
 
-**EVOLUCION DEL DISEÑO**
+## **EVOLUCION DEL DISEÑO**
 
 
-**TRABAJO REALIZADO**
+## **TRABAJO REALIZADO**
 
 
-**CONCLUSIÓN**
+## **CONCLUSIÓN**
 
 
-**AGRADECIMIENTOS**
+## **AGRADECIMIENTOS**
 
