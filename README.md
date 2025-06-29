@@ -1,21 +1,25 @@
 # **TABLA DE CONTENIDOS** 
-## - INTRODUCCIÓN
-## - EQUIPO 
-## - EXPERIENCIAS PASADAS
-## - PRIMER DISEÑO
-## - EVOLUCION DEL DISEÑO
-## - TRABAJO REALIZADO
-## - CONCLUSIÓN 
-## - AGRADECIMIENTOS
+
+  **NUESTRO RECORRIDO**
+  **IDEAS Y PRINCIPIOS**
+  **DOCUMENTACIÓN DEL HARDWARE**
+  **DOCUMENTACIÓN DEL SOFTWARE**
+  **DOCUMENTACIÓN DEL CÓDIGO ARDUINO**
+  **FOTOS DEL EQUIPO**
+  **FOTOS DEL VEHÍCULO**
+  **VIDEOS**
+
+
+# **NUESTRO RECORRIDO**
 
 ## **INTRODUCCIÓN**
 
 
-## **EQUIPO**
+## **EQUIPO** 
 
 Nuestro equipo se compone por dos personas y un coach, lleva por nombre whitelions. Hemos participado en WRO en 3 ediciones, pero esta es nuestra primera edición en la categoría Fututos Ingenieros.  A continuación, se les presenta los integrantes del equipo:
 
-	Participantes:
+    MIEMBROS:
 
 -	Guillermo Herrera Colegio El Ángel 
 guillermoaherrerab@gmail.com
@@ -23,10 +27,12 @@ guillermoaherrerab@gmail.com
 -	José Leonardo Marquina Colegio Los Ángeles
 Joseleonardomarq10@gmail.com
 
-    Coach:
+    COACH:
 
 -	Luis Barrios
 luisgbarriosm@gmail.com
+
+    Les presentamos losmlinks anuestras redes:
 
 
 ## **EXPERIENCIAS PASADAS**
@@ -38,11 +44,11 @@ luisgbarriosm@gmail.com
 ## **EVOLUCION DEL DISEÑO**
 
 
-## **TRABAJO REALIZADO**
+## **TRABAJO EN EQUIPO**
 
 
-## **CONCLUSIÓN**
+# **CONCLUSIÓN**
 
 
-## **AGRADECIMIENTOS**
+# **AGRADECIMIENTOS**
 
