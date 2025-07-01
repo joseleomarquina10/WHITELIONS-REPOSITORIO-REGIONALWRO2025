@@ -1,7 +1,7 @@
 # **TABLA DE CONTENIDOS** 
 
 - [**NUESTRO RECORRIDO**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main?tab=readme-ov-file#nuestro-recorrido)
-- **IDEAS Y PRINCIPIOS**
+- [**IDEAS Y PRINCIPIOS**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/OTRO#ideas-y-principios)
 - **DOCUMENTACIÓN DEL HARDWARE**
 - **DOCUMENTACIÓN DEL SOFTWARE**
 - **DOCUMENTACIÓN DEL CÓDIGO ARDUINO**
