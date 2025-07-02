@@ -44,6 +44,7 @@ Les presentamos los links a nuestras redes:
 ## **PRIMEROS PROTOTIPOS Y EVOLUCIÓN DEL DISEÑO**
 
 - **Primer Prototipo**
+![PRIMER PROTOTIPO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_PROTOTIPO.jpeg)
 
 Originalmente, utlizamos un kit de carro de lego al cual le instalamos una tarjeta arduino nano y un sensor de ultrasonido, aprovechamos el sistema de dirección y tracción que contaba el carro. Por una parte la tracción funcionaba con un motor dc y por la otra parte la dirección también contaba con un motor dc pero controlaba su radio de giro con una pieza de abanico que limitaba el giro. Además el carro tenía un driver de motor para controlar estos.
 
