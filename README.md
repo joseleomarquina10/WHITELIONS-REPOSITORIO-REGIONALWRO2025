@@ -3,8 +3,7 @@
 - [**NUESTRO RECORRIDO**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main?tab=readme-ov-file#nuestro-recorrido)
 - [**IDEAS Y PRINCIPIOS**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/OTRO#ideas-y-principios)
 - [**DOCUMENTACIÓN DEL HARDWARE**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/ESQUEMAS#esquemas-y-documentaci%C3%B3n-del-hardware)
-- **DOCUMENTACIÓN DEL SOFTWARE**
-- **DOCUMENTACIÓN DEL CÓDIGO ARDUINO**
+- [**DOCUMENTACIÓN DEL SOFTWARE Y DEL CÓDIGO ARDUINO**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/SRC#documentaci%C3%B3n-del-software-y-del-c%C3%B3digo-arduino)
 - [**FOTOS DEL EQUIPO**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/FOTOS-EQUIPO)
 - [**FOTOS DEL VEHÍCULO**](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/FOTOS-VEH%C3%8DCULO)
 - [**VIDEOS** ](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/VIDEO)
@@ -52,7 +51,7 @@ Todo este mecanismo lo conectamos con la tarjeta Arduino y aquí nació el prime
 
 Este primer prototipo nos sirvió para realizar una gran cantidad de pruebas así como también para darnos cuenta de muchas cosas que debíamos mejorar. Rápidamente nos dimos cuenta de que la dirección presentaba muchos fallos pues era controlada por un motor dc, además el chasis del carro era demasido pequeño y estrecho, lo que iba a dificultar ubicar el resto de componentes necesarios. 
 
-- ### **Primer Todelo en Tinkercad**
+- ### **Primer Modelo en Tinkercad**
 ![PRIMER_MODELO_TINTERCAD](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_MODELO_TINKERCAD.jpeg)
 
 Por lo anterior, realizamos un rediseño para imprimir en 3D todo el chasis y la dirección, sin embargo nos quedamos con las ruedas delanteras y su mecanismo de giro, además la nueva dirección sería controlada por un servomotor para más precisión al girar.
@@ -74,12 +73,20 @@ Tras esta expasión del chasis superior ya no podíamos instalar el radar en el 
 
 
 ### **DISEÑO ACTUAL**
+![DISEÑO_ACTUAL](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/FOTOS-VEH%C3%8DCULO/WHITELION_LATERAL_IZQUIERDA.jpeg)
 
+Tras nuestra primera regional decidimos descartar el radar pues presentaba muchos fallos, en su lugar agregamos tres sensores de ultrasonido (Uno apuntando hacia el frente y los otros hacia los laterales, uno a la derecha y otro a la izquierda) de tal forma de que el carro detecte cuando haya un vacío y girar hacia allá. Además incorporamos la cámara ESP32 CAM para la vuelta de obstáculos, sin embargo notamos rápidamente que coincide en posición con el ultrasonido central, por ello dejamos el ultrasonido en el chasis inferior y la cámara en el superior.
 
-## **TRABAJO EN EQUIPO**
+También incorporamos una fuente de alimentación para distribuir el voltaje entre la arduino, el driver y la cámara; adicional a esto añadimos dos líneas negativas y positivas de protoboard para complementar.
+
+Debido a los nuevos componentes agregados tuvimos que expandir ambos chasis a dimensiones de 17,5x15 cm, además de reforzar el grosor de la barra de dirección para hacerla más resistente.
+
+Y así llegamos a nuestro diseño actual.
 
 
 # **CONCLUSIÓN**
+
+Este proyecto fue realmente difícil de desarrollar, pero nos dió mucho aprendizaje dentro del mundo de la robotica y nos brindó experiencias innolvidables, enseñandonos a como manejar los problemas de la mejor manera posible, ya sea en programación del proyecto o en el armado cuando nada queria funcionar y cuando nada se ajustaba a lo que buscabamos hacer, y que aún asi poder salir adelante y hacer un proyecto funcional de competencia, motivandonos a seguir participando en estas competencias.
 
 
 # **AGRADECIMIENTOS**
