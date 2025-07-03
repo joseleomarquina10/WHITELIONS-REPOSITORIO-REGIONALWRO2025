@@ -49,7 +49,7 @@ En la siguente tabla se explica en que base se encuentra cada componente Y cada 
 |Soporte Servo     |                                                  |
 |2 Soporte Batería |                                                  |  
 
-
+![BASES_CARRO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/BASES_CARRO.jpeg)
 
 ### **BASE INFERIOR**
 
@@ -61,8 +61,12 @@ Esta es la base de tracción, dirección y donde se ubica la batería, además d
 
  Note que en la parte central del chasis inferior aún queda un gran espacio aprovechale, allí ubicamos dos soportes con forma de pared para fijar la batería, estos soportes distan 1,5 cm del borde derecho del chassis y tienen una distancia entre sí de 2,8cm (el ancho de la batería). La batería se ubica con sus conectores apuntando hacía la izquierda y su puerto USB apuntando hacia la derecha, de manera que sea práctico cargarla sin desmontarla el carro.
 
+
+
 ### **BASE SUPERIOR**
 
 
 
 ### **CIRCUITO ELÉCTRICO**
+
+![CIRCUITO_ELECTRICO]()
