@@ -64,8 +64,7 @@ Esta es la base de tracción, dirección y donde se ubica la batería, además d
  Note que en la parte central del chasis inferior aún queda un gran espacio aprovechale, allí ubicamos dos soportes con forma de pared para fijar la batería, estos soportes distan 1,5 cm del borde derecho del chassis y tienen una distancia entre sí de 2,8cm (el ancho de la batería). La batería se ubica con sus conectores apuntando hacía la izquierda y su puerto USB apuntando hacia la derecha, de manera que sea práctico cargarla sin desmontarla el carro.
 
 
-![ESQUEMA_BASE_INFERIOR]()
-
+![ESQUEMA_BASE_INFERIOR](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA_BASE_INFERIOR.png)
 
 ### **BASE SUPERIOR**
 
@@ -73,4 +72,4 @@ Esta es la base de tracción, dirección y donde se ubica la batería, además d
 
 ### **CIRCUITO ELÉCTRICO**
 
-![CIRCUITO_ELECTRICO]()
+![CIRCUITO_ELECTRICO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA-CIRCUITO-EL%C3%89CTRICO-ARDUINO.pdf)
