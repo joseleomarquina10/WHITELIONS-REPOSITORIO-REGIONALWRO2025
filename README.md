@@ -43,7 +43,7 @@ Les presentamos los links a nuestras redes:
 
 ## **PRIMEROS PROTOTIPOS Y EVOLUCIÓN DEL DISEÑO**
 
-- **Primer Prototipo**
+- ### **Primer Prototipo**
 ![PRIMER PROTOTIPO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_PROTOTIPO.jpeg)
 
 Originalmente, utlizamos un kit de carro de lego al cual le instalamos una tarjeta arduino nano y un sensor de ultrasonido, aprovechamos el sistema de dirección y tracción que contaba el carro. Por una parte la tracción funcionaba con un motor dc y por la otra parte la dirección también contaba con un motor dc pero controlaba su radio de giro con una pieza de abanico que limitaba el giro. Además el carro tenía un driver de motor para controlar estos.
@@ -52,7 +52,10 @@ Todo este mecanismo lo conectamos con la tarjeta Arduino y aquí nació el prime
 
 Este primer prototipo nos sirvió para realizar una gran cantidad de pruebas así como también para darnos cuenta de muchas cosas que debíamos mejorar. Rápidamente nos dimos cuenta de que la dirección presentaba muchos fallos pues era controlada por un motor dc, además el chasis del carro era demasido pequeño y estrecho, lo que iba a dificultar ubicar el resto de componentes necesarios. 
 
-Por esto realizamos un rediseño para imprimir en 3D todo el chasis y la dirección, sin embargo nos quedamos con las ruedas delanteras y su mecanismo de giro, además la nueva dirección sería controlada por un servomotor para más precisión al girar.
+- ### **Primer Todelo en Tinkercad**
+![PRIMER_MODELO_TINTERCAD](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_MODELO_TINKERCAD.jpeg)
+
+Por lo anterior, realizamos un rediseño para imprimir en 3D todo el chasis y la dirección, sin embargo nos quedamos con las ruedas delanteras y su mecanismo de giro, además la nueva dirección sería controlada por un servomotor para más precisión al girar.
 
 Nuestro principio es que el carro sea pequeño por eso definimos el nuevo chasis de dimensiones de 10x15 cm, pero igualmente nos dimos cuenta del poco espacio, por ello decidimos hacerle un segundo chasis al carro y de esta forma habrían dos: Chasis superior, con los controladores y la batería; y chasis inferior, con la traccion, dirección y el sensorores. 
 
@@ -60,7 +63,8 @@ Del carro anterior, también definimos que el ultrasonido funcione como un radar
 
 Incorporamos el driver de motor dc L298N para poder controlar la velocidad a través del pwm y por sus conexiones atornilladas, para asegurar una conexión firme. por la misma razón incluimos una base expansora de arduino nano para atornillar.
 
-![PRIMER_MODELO_TINTERCAD](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_MODELO_TINKERCAD.jpeg)
+- ### **Primer Carro Funcional**
+![PRIMER_CARRO_FUNCIONAL](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_CARRO_FUNCIONAL.jpg)
 
 Tras este rediseño notamos que aún era necesario más espacio por ello expandimos el chasis superior a las mismas dimensiones del inferior. 
 
@@ -68,9 +72,8 @@ Notamos que existía un espacio aprovechable en el chasis infeior por el uso de 
 
 Tras esta expasión del chasis superior ya no podíamos instalar el radar en el chasis inferior, por lo que decidimos hacerlo arriba y con impresión 3D llegamos a este nuevo prototipo, el cual usaríamos en nuestra primera regional.
 
-![PRIMER_CARRO_FUNCIONAL](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_CARRO_FUNCIONAL.jpg)
 
-## **DISEÑO ACTUAL**
+### **DISEÑO ACTUAL**
 
 
 ## **TRABAJO EN EQUIPO**
