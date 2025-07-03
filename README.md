@@ -50,12 +50,21 @@ Originalmente, utlizamos un kit de carro de lego al cual le instalamos una tarje
 
 Todo este mecanismo lo conectamos con la tarjeta Arduino y aquí nació el primer prototipo del WHITELION, el cual únicamente giraba a la izquierda al detectar una pared al frente y gracias al mecanismo de engranajes de la tracción iba a alta velocidad.
 
-Este primer prototipo nos sirvió para realizar una gran cantidad de pruebas así como también para darnos cuenta de muchas cosas que debíamos mejorar. Claramente no es funcional un carro tan pequeño pues no podríamos 
+Este primer prototipo nos sirvió para realizar una gran cantidad de pruebas así como también para darnos cuenta de muchas cosas que debíamos mejorar. Rápidamente nos dimos cuenta de que la dirección presentaba muchos fallos pues era controlada por un motor dc, además el chasis del carro era demasido pequeño y estrecho, lo que iba a dificultar ubicar el resto de componentes necesarios. 
 
+Por esto realizamos un rediseño para imprimir en 3D todo el chasis y la dirección, sin embargo nos quedamos con las ruedas delanteras y su mecanismo de giro, además la nueva dirección sería controlada por un servomotor para más precisión al girar.
 
+Nuestro principio es que el carro sea pequeño por eso definimos el nuevo chasis de dimensiones de 10x15 cm, pero igualmente nos dimos cuenta del poco espacio, por ello decidimos hacerle un segundo chasis al carro y de esta forma habrían dos: Chasis superior, con los controladores y la batería; y chasis inferior, con la traccion, dirección y el sensorores. 
 
+Del carro anterior, también definimos que el ultrasonido funcione como un radar y que se mueva constantemente por un servomotor para detectar su entorno y de alli decidir a donde girar, por ello pensamos en utilizar una torre arriba del servo para colocar el ultrasonido y una posible cámara, además utilizamos un solo motor dc para la tracción para no complicar la programación y porque al probar con dos constantemente se soltaban del eje.
 
+![PRIMER_MODELO_TINTERCAD](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_MODELO_TINKERCAD.jpeg)
 
+Tras este rediseño notamos que aún era necesario más espacio por ello expandimos el chasis superior a las mismas dimensiones del inferior. 
+
+Notamos que existía un espacio aprovechable en el chasis infeior por el uso de un solo motor así que allí ubicamos la batería y para que todos los cables pasaran de buena forma de chasis a chasis, hicimos una abertura en el superior.
+
+Tras esta expasión del chasis superior 
 
 
 ## **TRABAJO EN EQUIPO**
