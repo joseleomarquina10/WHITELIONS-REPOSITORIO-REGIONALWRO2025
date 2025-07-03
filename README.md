@@ -75,7 +75,7 @@ Tras esta expasión del chasis superior ya no podíamos instalar el radar en el 
 ### **DISEÑO ACTUAL**
 ![DISEÑO_ACTUAL](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/FOTOS-VEH%C3%8DCULO/WHITELION_LATERAL_IZQUIERDA.jpeg)
 
-Tras nuestra primera regional decidimos descartar el radar pues presentaba muchos fallos, en su lugar agregamos tres sensores de ultrasonido (Uno apuntando hacia el frente y los otros hacia los laterales, uno a la derecha y otro a la izquierda) de tal forma de que el carro detecte cuando haya un vacío y girar hacia allá. Además incorporamos la cámara ESP32 CAM para la vuelta de obstáculos, sin embargo notamos rápidamente que coincide en posición con el ultrasonido central, por ello dejamos el ultrasonido en el chasis inferior y la cámara en el superior.
+Tras nuestra primera regional decidimos descartar el radar pues presentaba muchos fallos, en su lugar agregamos tres sensores de ultrasonido (Uno apuntando hacia el frente y los otros hacia los laterales, uno a la derecha y otro a la izquierda) de tal forma de que el carro detecte cuando haya un vacío y girar hacia allá. Además cambiamos las ruedas de lego por otras de motor DC e incorporamos la cámara ESP32 CAM para la vuelta de obstáculos, sin embargo notamos rápidamente que coincide en posición con el ultrasonido central, por ello dejamos el ultrasonido en el chasis inferior y la cámara en el superior.
 
 También incorporamos una fuente de alimentación para distribuir el voltaje entre la arduino, el driver y la cámara; adicional a esto añadimos dos líneas negativas y positivas de protoboard para complementar.
 
