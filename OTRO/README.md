@@ -26,6 +26,8 @@
 
 - Además, decidimos alargar los chasis a nuevas dimensiones de 17,5x15 cm para poder implementar una fuente de alimentación y distribuir el voltaje: 5V para el Arduino y 3,3V para la ESP32-CAM.
 
+- Cambiamos las ruedas de la dirección por ruedas de motor Dc para mejor estabalidad al girar.
+
 - También notamos en esa primera regional que los sensores de ultrasonido deben apuntar hacia abajo, pues si están en la parte superior pueden detectar objetos externos a la pista. Utilizamos el mismo razonamiento para ubicar la cámara apuntando hacia abajo.
 
 ##  **PARA LA VUELTA LIBRE**
