@@ -68,8 +68,17 @@ Esta es la base de tracción, dirección y donde se ubica la batería, además d
 
 ### **BASE SUPERIOR**
 
+Esta es la base de control, con las tarjetas controladoras y la mayaroría de sensores ultrasonidos junto a la cámara, además de la fuente de alimentación.
 
+Instalamos la Arduino Nano y el driver L298N en la parte posterior de esta base, pusimos la Arduino en una base expansora para atornillar las conexiones de cables y para poder atornillar la tarjeta al chasis así como también el driver, de esta forma evitamos que se muevan y que se puedan desconectar los cables. Las líneas positiva y negativa de protoboard las fijamos con pega 2cm más adelante de las tarjetas para dejar espacio para la conexión de cables (pues las conexiones a las tarjetas se hacen horizontales). Diseñamos una abertura para esta base y así pasar los cables del chasis inferior al superior. Ahora bien, 2cm después de la abertura se instala verticalmente la fuente de alimentación. 
+
+Los sensores ultrasonidos laterales se instalan justo detrás de las alas del chasis superior, deben estar apuntando ligeramnete hacia abajo para evitar detectar cosas externas a la pista. Similarmente la cámara se instala en la parte frontal de esta base, apuntando ligeramente hacia abajo.
+
+Con respecto a las líneas de protoboard y la fuente de aliemntación, una línea corresponde al voltaje de 5v, es decir esta línea viene alimentada por los 5v de la fuente de alimentación y aquí se conectan la Arduino Nano, los sensores ultrasonidos y el servo de la dirección. Mientras que la segunda línea está alimentada directamente por la batería y aquí se conecta el driver L298N, pues requiere de los 9v. Por otro lado la ESP32 CAM se alimenta directamente por los 3.3v de la fuente de alimentación.
+
+En general las conexiones se realizaron con cables dupont Macho-Macho, Hembra-Hembra y Macho-Hembra, evitamos usar cables sin cabeza pues pueden soltarse y complicar la conexiones.
 
 ### **CIRCUITO ELÉCTRICO**
+
 
 ![CIRCUITO_ELECTRICO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA-CIRCUITO-EL%C3%89CTRICO-ARDUINO.pdf)
