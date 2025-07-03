@@ -58,13 +58,19 @@ Nuestro principio es que el carro sea pequeño por eso definimos el nuevo chasis
 
 Del carro anterior, también definimos que el ultrasonido funcione como un radar y que se mueva constantemente por un servomotor para detectar su entorno y de alli decidir a donde girar, por ello pensamos en utilizar una torre arriba del servo para colocar el ultrasonido y una posible cámara, además utilizamos un solo motor dc para la tracción para no complicar la programación y porque al probar con dos constantemente se soltaban del eje.
 
+Incorporamos el driver de motor dc L298N para poder controlar la velocidad a través del pwm y por sus conexiones atornilladas, para asegurar una conexión firme. por la misma razón incluimos una base expansora de arduino nano para atornillar.
+
 ![PRIMER_MODELO_TINTERCAD](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_MODELO_TINKERCAD.jpeg)
 
 Tras este rediseño notamos que aún era necesario más espacio por ello expandimos el chasis superior a las mismas dimensiones del inferior. 
 
 Notamos que existía un espacio aprovechable en el chasis infeior por el uso de un solo motor así que allí ubicamos la batería y para que todos los cables pasaran de buena forma de chasis a chasis, hicimos una abertura en el superior.
 
-Tras esta expasión del chasis superior 
+Tras esta expasión del chasis superior ya no podíamos instalar el radar en el chasis inferior, por lo que decidimos hacerlo arriba y con impresión 3D llegamos a este nuevo prototipo, el cual usaríamos en nuestra primera regional.
+
+![PRIMER_CARRO_FUNCIONAL](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/PRIMER_CARRO_FUNCIONAL.jpg)
+
+## **DISEÑO ACTUAL**
 
 
 ## **TRABAJO EN EQUIPO**
