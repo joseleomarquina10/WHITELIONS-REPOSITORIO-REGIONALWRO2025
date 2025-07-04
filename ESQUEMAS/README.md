@@ -78,6 +78,8 @@ Con respecto a las líneas de protoboard y la fuente de aliemntación, una líne
 
 En general las conexiones se realizaron con cables dupont Macho-Macho, Hembra-Hembra y Macho-Hembra, evitamos usar cables sin cabeza pues pueden soltarse y complicar la conexiones.
 
+![ESQUEMA_BASE_SUPERIOR](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA_BASE_SUPERIOR.png)
+
 ### **CIRCUITO ELÉCTRICO**
 
 A continuación se les presenta el circuito eléctrico de la tarjeta Arduino con los demás componentes (en este esquema no se incluye la ESP32 CAM)
