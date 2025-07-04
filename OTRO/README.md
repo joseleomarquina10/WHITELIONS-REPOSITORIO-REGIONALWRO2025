@@ -59,3 +59,7 @@
 - En general, el carro debe ir a una velocidad muy controlada para dar suficiente tiempo a la cámara de detectar el entorno.
 
 - No se utilizan mucho los sensores de ultrasonido en la vuelta de obstáculos, pues pueden confundirse fácilmente con los mismos obstáculos. Se prioriza el uso de la cámara.
+
+
+
+Para más detalles del desempeño del carro en la ronda libre y de obstáculos pueden ver [DESEMPEÑO DEL CARRO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/ESQUEMAS#desempe%C3%B1o-del-carro)
