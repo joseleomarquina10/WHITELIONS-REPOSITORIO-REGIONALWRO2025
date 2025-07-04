@@ -88,9 +88,25 @@ A continuación se les presenta el circuito eléctrico de la tarjeta Arduino con
 
 Ahora bien, para la ESP32-CAM, TX y RX de la cámara se conecta con el TX y RX de la Arduino Nano respectivamente, el GND se conecta a la línea negativa GND de la protoborad. Esta se alimenta al conectarse directamente a los 3,3V de la fuente de alimentación.
 
-Para más detalles sobre la definición de pines pueden ver [DEFINICIÓN DE PINES]()
+Para más detalles sobre la definición de pines pueden ver [DEFINICIÓN DE PINES](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/tree/main/SRC#definici%C3%B3n-de-pines)
 
 
 ## **DESEMPEÑO DEL CARRO**
+
+A continuación se tienen los esquemas del desempeño del carro en la ronda libre y en la ronda de obstáculos
+
+### VUELTA LIBRE
+
+- El carro siempre se mueve adelante. Se detiene cuando haya realizado 12 giros exactos.
+
+- Al detectar un vacío lateral de más de 200 cm y que la distancia frontal es de 60 cm gira hacia este lado de tal forma de mantenerse en paralelo a la pared, gira hasta quedar en 90 grados con respecto a su trayectoria inicial.
+
+- Sí se encuentra a una distancia de menos de 20 cm de la pared (o queda apuntando a la pared) gira levemente para despegarse de ella y nivelarse.
+
+
+
+
+
+
 
 
