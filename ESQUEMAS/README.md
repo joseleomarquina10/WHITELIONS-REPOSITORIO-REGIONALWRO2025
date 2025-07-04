@@ -85,3 +85,12 @@ En general las conexiones se realizaron con cables dupont Macho-Macho, Hembra-He
 A continuación se les presenta el circuito eléctrico de la tarjeta Arduino con los demás componentes (en este esquema no se incluye la ESP32 CAM)
 
 ![CIRCUITO_ELECTRICO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA-CIRCUITO-EL%C3%89CTRICO-ARDUINO.pdf)
+
+Ahora bien, para la ESP32-CAM, TX y RX de la cámara se conecta con el TX y RX de la Arduino Nano respectivamente, el GND se conecta a la línea negativa GND de la protoborad. Esta se alimenta al conectarse directamente a los 3,3V de la fuente de alimentación.
+
+Para más detalles sobre la definición de pines pueden ver [DEFINICIÓN DE PINES]()
+
+
+## **DESEMPEÑO DEL CARRO**
+
+
