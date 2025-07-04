@@ -80,5 +80,6 @@ En general las conexiones se realizaron con cables dupont Macho-Macho, Hembra-He
 
 ### **CIRCUITO ELÉCTRICO**
 
+A continuación se les presenta el circuito eléctrico de la tarjeta Arduino con los demás componentes (en este esquema no se incluye la ESP32 CAM)
 
 ![CIRCUITO_ELECTRICO](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA-CIRCUITO-EL%C3%89CTRICO-ARDUINO.pdf)
