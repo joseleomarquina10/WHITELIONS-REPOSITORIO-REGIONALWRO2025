@@ -93,17 +93,19 @@ Para más detalles sobre la definición de pines pueden ver [DEFINICIÓN DE PINE
 
 ## **DESEMPEÑO DEL CARRO**
 
-A continuación se tienen los esquemas del desempeño del carro en la ronda libre y en la ronda de obstáculos
+A continuación se tienen los esquemas del desempeño del carro en las vueltas:
 
 ### VUELTA LIBRE
 
 - El carro siempre se mueve adelante. Se detiene cuando haya realizado 12 giros exactos.
 
-- Al detectar un vacío lateral de más de 200 cm y que la distancia frontal es de 60 cm gira hacia este lado de tal forma de mantenerse en paralelo a la pared, gira hasta quedar en 90 grados con respecto a su trayectoria inicial.
+- Al detectar un vacío lateral de más de 200 cm y que la distancia frontal es de 60 cm, gira hacia este lado de tal forma de mantenerse en paralelo a la pared, hasta quedar en 90 grados con respecto a su trayectoria inicial.
+
+![ESQUEMA_GIRO_VUELTA_LIBRE](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA_GIRO_VUELTA_LIBRE.pptx)
 
 - Sí se encuentra a una distancia de menos de 20 cm de la pared (o queda apuntando a la pared) gira levemente para despegarse de ella y nivelarse.
 
-
+![ESQUEMA_NIVELACIÓN_VUELTA_LIBRE](https://github.com/joseleomarquina10/WHITELIONS-REPOSITORIO-REGIONALWRO2025/blob/main/ESQUEMAS/ESQUEMA_NIVELACI%C3%93N_VUELTA_LIBRE.pptx)
 
 
 
